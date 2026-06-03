@@ -27,6 +27,14 @@ enabled: true
    - `.pothos/knowledge/style.md`
    - `.pothos/knowledge/projects.md`
 
+涉及单次调研、行前案头研究或专题资料包时，加载：
+
+- `.pothos/skills/research-dossier/SKILL.md`
+
+涉及长期知识库沉淀时，加载：
+
+- `.pothos/skills/knowledge-curation/SKILL.md`
+
 如果任务明确涉及人生脉络、心理母题或内在角色体系，可回查：
 
 - `/Users/dtysky/Projects/dtysky/Ousia/.ousia/persona.md`
