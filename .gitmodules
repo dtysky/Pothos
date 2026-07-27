@@ -1,0 +1,3 @@
+[submodule "projects/project-birthday-33"]
+	path = projects/project-birthday-33
+	url = git@github.com:dtysky/ProjectBirthday33.git
