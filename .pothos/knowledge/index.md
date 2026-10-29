@@ -1,6 +1,6 @@
 # Pothos Knowledge Base
 
-更新时间：`2026-04-07`
+更新时间：`2026-08-17`
 
 这套知识库用于支持后续的文学咨询、共写与直接实施。它不是资料堆放区，而是高置信、可调用、可复用的工作底稿。
 
@@ -11,7 +11,7 @@
 - `.pothos/knowledge/style.md`
   - 文风特征、意象系统、句法习惯、仿写边界
 - `.pothos/knowledge/projects.md`
-  - `ProjectTomorrow` 与 `ProjectBirthday31` 的叙事偏好与可复用方法
+  - `ProjectTomorrow`、`ProjectBirthday31` 与 `ProjectBirthday33` 的叙事偏好及可复用项目方法
 
 ## 快速摘要
 
