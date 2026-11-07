@@ -1,6 +1,6 @@
 # Pothos Knowledge Base
 
-更新时间：`2026-08-17`
+更新时间：`2026-11-03`
 
 这套知识库用于支持后续的文学咨询、共写与直接实施。它不是资料堆放区，而是高置信、可调用、可复用的工作底稿。
 
@@ -12,6 +12,8 @@
   - 文风特征、意象系统、句法习惯、仿写边界
 - `.pothos/knowledge/projects.md`
   - `ProjectTomorrow`、`ProjectBirthday31` 与 `ProjectBirthday33` 的叙事偏好及可复用项目方法
+- `.pothos/knowledge/travel-creation.md`
+  - 旅行影像创作规则与 Pharos 交接依据：前置创作意图、阶段作品、途中发表、制作时间与纪实表达边界
 
 ## 快速摘要
 
@@ -25,6 +27,7 @@
 - 先用 `profile.md` 保证人物和价值判断不跑偏
 - 再用 `style.md` 保证声音和意象系统不失真
 - 涉及剧本、小说结构、人物关系时，参考 `projects.md`
+- 涉及旅行影像、持续创作或向 Pharos 交付创作原则时，读取 `travel-creation.md`
 - 超出知识库的部分，一律当作推断，不要擅自补完
 
 ## 已整合来源
